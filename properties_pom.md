@@ -9,7 +9,7 @@ General properties with usage of Spring version:
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>[spring_version]</spring.version>
     </properties>
-    ```
+```
 
 Properties with the usage of Apache CXF version:
 
