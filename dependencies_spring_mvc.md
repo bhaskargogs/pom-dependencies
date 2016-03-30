@@ -6,7 +6,9 @@ The configuration is as follows:
 
 ```sh
 <dependencies>
-    <dependency>
+    		
+    		<!-- Dependencies for Spring framework -->
+    		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
 			<version>${spring.version}</version>
