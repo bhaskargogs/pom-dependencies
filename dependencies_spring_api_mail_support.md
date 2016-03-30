@@ -7,6 +7,7 @@ The configuration file is as follows:
 ```sh
 <dependencies>
 
+  <!-- Dependencies for Spring API for mail support -->
   <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context-support</artifactId>
