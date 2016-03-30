@@ -5,20 +5,22 @@ This file tells us about dependencies in the spring security
 Configuration file:
 ```sh
 <dependencies>
+  
+  <!-- Dependencies in Spring Security  -->
   <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-config</artifactId>
     <version>${spring.version}</version>
     <type>jar</type>
     <scope>compile</scope>
-    </dependency>
+  </dependency>
 
-    <dependency>
+  <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-web</artifactId>
     <version>${spring.version}</version>
     <type>jar</type>
     <scope>compile</scope>
-</dependency>
+  </dependency>
 </dependencies>
 ```
