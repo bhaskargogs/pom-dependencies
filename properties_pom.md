@@ -7,7 +7,7 @@ General properties with usage of Spring version 3.2.2:
 ```sh
 <properties>
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>3.2.2.RELEASE</spring.version>
+		<spring.version>[spring_version]</spring.version>
     </properties>
     ```
 
@@ -16,7 +16,9 @@ Properties with the usage of Apache CXF version 2.x:
 ```sh
 <properties>
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>3.2.2.RELEASE</spring.version>
-              <cxf.version>2.7.3</cxf.version>
+		<spring.version>[spring_version]</spring.version>
+              <cxf.version>[apache_cxf_version]</cxf.version>
 </properties>
 ```
+
+# Note: [spring_version] and [apache_cxf_version] is dependent on the version you're using
