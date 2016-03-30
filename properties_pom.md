@@ -2,7 +2,7 @@
 
 This file consists of the versions of Spring, Apache and other related versions.
 
-General properties with usage of Spring version 3.2.2:
+General properties with usage of Spring version:
 
 ```sh
 <properties>
@@ -11,7 +11,7 @@ General properties with usage of Spring version 3.2.2:
     </properties>
     ```
 
-Properties with the usage of Apache CXF version 2.x:
+Properties with the usage of Apache CXF version:
 
 ```sh
 <properties>
