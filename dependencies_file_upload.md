@@ -6,7 +6,7 @@ This file represents the dependencies in file upload.
 ```sh
 <dependencies>
 	
-	<!-- dependencies for file handling -->
+	<!-- Dependencies for file handling -->
     	<dependency>
 		<groupId>commons-fileupload</groupId>
 		<artifactId>commons-fileupload</artifactId>
