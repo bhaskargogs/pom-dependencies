@@ -1,4 +1,4 @@
-# ```<dependencies>`` in database
+# ```<dependencies>``` in database
 
 This are the dependencies for database (MySQL) in pom.xml
 
